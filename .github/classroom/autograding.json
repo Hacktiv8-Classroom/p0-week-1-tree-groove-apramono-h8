@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Check Input",
+      "setup": "",
+      "run": "node index.js",
+      "input": "5",
+      "output": "10",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
