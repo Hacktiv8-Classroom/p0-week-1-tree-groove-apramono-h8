@@ -4,11 +4,11 @@
       "name": "Check Input",
       "setup": "",
       "run": "node index.js",
-      "input": "5",
-      "output": "10",
+      "input": "10",
+      "output": "20",
       "comparison": "exact",
       "timeout": 10,
-      "points": null
+      "points": 15
     }
   ]
 }
